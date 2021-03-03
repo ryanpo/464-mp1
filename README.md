@@ -1,9 +1,7 @@
 # Assignment 1. Traditional Animation
 
-This is the start code for miniproject 1. Please refer to the [course website](http://graphics.cs.cmu.edu/nsp/course/15464-s20/www/assignments/miniProject1.htm) for project instructions.
+This is the start code for miniproject 1. Where I implemented jacobian transpose and pseudo inverse IK. The presentation for this project can be found [here](https://docs.google.com/presentation/d/19L_XczrGUHKThil6VYtu9yzIV_3NA_zqpoX5_aF4kuY/edit?usp=sharing).
 
-Demos for using the start code is [here](https://github.com/yangyanzhe/assignment1/blob/master/demo.ipynb)
+Demos for using the IK code is [here](https://github.com/ryanpo/464-mp1/blob/main/ik-demo.ipynb)
 
-Reference: <br/>
-Holden, D., Komura, T., & Saito, J. (2017). Phase-functioned neural networks for character control. ACM Transactions on Graphics (TOG), 36(4), 42.
 # 464-mp1
