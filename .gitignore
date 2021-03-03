@@ -134,4 +134,4 @@ dmypy.json
 # Jupyter lab
 .ipynb_checkpoints
 data/fbx
-output/
+
